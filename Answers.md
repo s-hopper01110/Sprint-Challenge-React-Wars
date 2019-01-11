@@ -16,4 +16,4 @@ To think in terms of components and making the code reusable.
     State is the state of my app. Stores/manages Data. 
 
 5.  Describe props.
-Props are properties. It allows us to build an object where it can consume a parameter inside a functional component. 
+Props are properties. It allows us to build an object where it can consume a parameter inside a functional component.
