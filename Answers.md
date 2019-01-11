@@ -7,5 +7,6 @@
 1.  Briefly describe some of the differences between a Class/Stateful component and a Functional/Presentational component.
 
 1.  Describe state.
+    State is the state of my app. Stores Data. 
 
 1.  Describe props.
