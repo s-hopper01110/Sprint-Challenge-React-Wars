@@ -1,11 +1,17 @@
 import React from 'react';
-// import './StarWars.css';
+import './StarWars.css';
 
       function Characters (props) {
             return (
-                  <div>
+                  <div className="charName">
                         <h3>{props.starwarsSet.name}</h3>
-                  </div>
+                              <div className="swElements">
+                                   <div> Birth Year:{props.starwarsSet.birth_year}</div> 
+
+                              </div>
+                  </div> //main div
+
+                  
             )
       }
 

@@ -1,0 +1,31 @@
+h3{
+    color:#549;
+    font-size: 2rem;
+    text-align: center;
+}
+
+
+.charName{
+    display:flex;
+    flex-direction: column;
+    padding:-2px;
+    /* flex-wrap: wrap; */
+    /* border: 2px solid red; */
+    margin-top:10px;
+   
+}
+
+.swElements{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    color:#cce;
+    background-color: #011;
+    margin-left: 41%;
+    text-align: center;
+    padding: 5px;
+    letter-spacing: .1rem;
+    width:200px;
+    /* align-content: center; */
+    /* border: 2px solid greenyellow; */
+}
