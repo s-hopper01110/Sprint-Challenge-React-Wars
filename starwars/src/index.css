@@ -2,7 +2,11 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background-color:#c73;
-  /* background-image: url('./sw-bg.jpg'); */
-  background-size: cover;
+  /* background-color:#c73; */
+  /* background-image: url('https://wpblink.com/sites/default/files/wallpaper/earth/68463/space-wallpapers-hd-68463-5516324.png'); */
+/*   
+  background-size: cover; */
+
+/* border: 1px solid yellow; */
+
 }
