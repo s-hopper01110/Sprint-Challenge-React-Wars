@@ -2,7 +2,42 @@
   text-align: center;
 }
 .Header {
-  color: #443e3e;
-  text-shadow: 1px 1px 5px #fff;
+  color: #ba6;
+  font-size: 6rem;
+  margin:0;
+  text-shadow: 1px 1px 1px #fff;
 }
 /* write your parent styles in here for your App.js */
+
+/* body{
+  transition-timing-function: ease-in;
+  transition: 0.2s;
+  transform: translateY(130%);
+} */
+
+.s-bg{
+  background-image: url('https://wpblink.com/sites/default/files/wallpaper/earth/68463/space-wallpapers-hd-68463-5516324.png');
+  height: 252.7%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  /* transition-timing-function: ease-out;
+  transition: 15s;
+  transform: translateY(0);
+  animation-delay: 0s;
+  animation-iteration-count: infinite;
+  animation-direction: normal;
+  animation-fill-mode: both; */
+
+
+}
+
+img{
+  /* height: 900%; */
+  width:99.9%;
+  object-fit:cover;
+  position: absolute;
+  z-index:-1;
+  
+}
